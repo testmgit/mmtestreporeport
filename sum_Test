@@ -1,0 +1,5 @@
+sum_result = 0
+for i in range(1, 101):  # range(1, 101)生成1到100
+    sum_result += i
+
+print(f"1到100的和是: {sum_result}")
